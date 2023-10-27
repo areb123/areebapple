@@ -1,0 +1,264 @@
+.main{
+    width: 100%;
+    height: auto;
+}
+
+.Navber{
+    width: 100%;
+    height: 40px;
+    background: #000;
+    display: flex;
+}
+.logo img{
+    width: 25px;
+    height:25px;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.navbar2 ul li{
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    display: flex;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(204, 217, 213);
+    margin-left: 24px;
+    font-size: small;
+    padding: auto;
+    padding-bottom: 50px;
+    word-spacing: 30px;
+}
+.navbar3 img{
+    width: 21px;
+    height:21px;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 30px;
+    background: #000;
+
+}
+.banner{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+.banner2 img{
+    width: 1568px;
+    height: 700px;
+}
+.banner3 h1{
+    width: 500px;
+    height: auto ;
+    text-align: center;
+    margin-top: -530px;
+    color: white;
+    margin-left: 400px;
+    font-size: 50px;
+}
+.banner3 h2
+{
+    width: 500px;
+    height: auto ;
+    text-align: center;
+    margin-top: -15px;
+    color: white;
+    margin-left: 400px;
+    font-size: 30px;
+    font: smaller;
+    margin-top: 2px;
+}
+.banner3 a{
+    width: 100px;
+    height: auto ;
+    text-align: center;
+    margin-top: -20px;
+    color: #4d75e3;
+    margin-left: 580px;
+    font-size: 30px;
+    font: smaller;
+    margin-top: 5px;
+    padding: 10px 10px;
+}
+.camra1{
+    width: 100%;
+    height: auto;}
+.camra2 img{
+    width: 100%;
+    height: 650px;
+    margin-top: 300px;
+}
+.camra2 h1{
+    width: 500px;
+    height: auto ;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: -580px;
+    color: black;
+    font-size: 70px;
+}
+
+.camra2 h2{
+    width: 500px;
+    height: auto ;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: -40px;
+    color: black;
+    font-size: 26px;
+}
+.camra2 a{
+    display: flex;
+    width: 500px;
+    height: auto ;
+    margin-left: 590px;
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(52, 69, 201);
+}
+.watch1 img{
+    width: 100%;
+    height: 600px;
+    margin-top: 460px;
+}
+
+.watch2 h1{ 
+        width: 500px;
+        height: auto ;
+        margin-left: 400px;
+        text-align: center;
+        margin-top: -600px;
+        color: white;
+        font-size: 50px;
+}
+.watch2 h4{ 
+    width: 500px;
+    height: auto ;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: -40px;
+    color: rgb(247, 48, 48);
+    font-size: 30px;
+} 
+.watch2 h2{ 
+    width: 400px;
+    height: auto ;
+    margin-left: 450px;
+    text-align: center;
+    margin-top: -40px;
+    color: rgb(241, 241, 245);
+    font-size: 30px;
+}   
+.watch2 a{ 
+    width: 500px;
+    height: 500px;
+    margin-left: 600px;
+    font-size: 20px;
+    margin-top: -10px;
+    color: blue;
+}  
+.ipad1{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    margin-top: 420px;
+
+}
+.ipad-left {
+    width: 50%;
+    height: 580;
+    margin-right: 5px;
+}
+.ipad-left img{
+
+    width: 100%;
+    height: 450px;
+    padding-left: 5px;
+
+}
+
+.ipad-right {
+    width: 50%;
+    height: 580px;
+    margin-left: 5px;
+}
+.ipad-right img{
+
+    width: 100%;
+    height: 450px;
+    padding-left: 5px;
+}
+.ipad-main-second{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    margin-top: -140px;
+}
+
+.ipad-left-second {
+    width: 50%;
+    height: 580;
+    margin-right: 5px;
+}
+.ipad-left-second img{
+    
+    width: 100%;
+    height: 450px;
+    padding-left: 5px;
+    
+}
+
+.ipad-right-second {
+    width: 50%;
+    height: 580px;
+    margin-left: 5px;
+}
+.ipad-right-second img{
+
+    width: 100%;
+    height: 450px;
+    padding-left: 5px;
+}
+.card-main{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    margin-top: -140px;
+}
+.card-left{
+    width: 50%;
+    height: 580;
+    margin-right: 5px;
+}
+.card-left img{
+    width: 100%;
+    height: 400px;
+    padding-left: 5px;
+}
+
+
+
+.card-right{
+    width: 50%;
+    height: 580;
+    margin-right: 5px;
+}
+.card-right img{
+    width: 100%;
+    height: 400px;
+    padding-left: 5px;
+}
+
+.areebali{
+    width: 1000px;
+    height: auto;
+    margin-left: 170px;
+    margin-top: -170px;
+}
+.areebali p{
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+}
